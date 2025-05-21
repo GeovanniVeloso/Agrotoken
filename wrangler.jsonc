@@ -1,7 +1,5 @@
 {
-  "name": "worker-name",
-  "compatibility_date": "2025-05-21",
-  "assets": {
-    "directory": "./app/upload/page.tsx"
-  }
+"name": "worker-name",
+"compatibility_date": "2025-05-21",
+"main": "app/upload/page.tsx"
 }
